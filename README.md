@@ -19,10 +19,10 @@ License
 	own license terms. See the distribution libraries or the project
 	documentation for more details.
 	
-	Licensed under the Apache License, Version 2.0 (the "License");
-	you may not use this file except in compliance with the LICENSE
-	as included in the distribution. You may obtain a copy of the 
-	License at
+	The entire source is licensed under the Apache License, Version 2.0 
+	(the "License"); you may not use this file except in compliance with
+	the LICENSE as included in the distribution. You may obtain a copy of
+	the License at
 	
 		http://www.apache.org/licenses/LICENSE-2.0
 	
