@@ -3,6 +3,10 @@ Solutions to Greplin Programming Challenge
 
 This project holds solutions to each level of Greplin Programming Challenge as available on http://challenge.greplin.com/.
 
+Spolier Alert
+-------------
+The solution is posted here for my reference only. I suggest that you do not use the code below for solving the challenge. It would however be interesting to compare and know more, once you have solved the challenge yourself. Best of luck!
+
 License
 -------
 
